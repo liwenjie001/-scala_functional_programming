@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatest.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatest-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatest-build.iml" />
     </modules>
   </component>
 </project>
